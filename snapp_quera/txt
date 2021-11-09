@@ -1,0 +1,1 @@
+ineffective break statement. Did you mean to break out of the outer loop? (SA4011)go-staticcheck

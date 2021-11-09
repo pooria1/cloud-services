@@ -1,0 +1,8 @@
+# creating bool series True for NaN values 
+# bool_series = pd.isnull(data["Club"]) 
+    
+# filtering data 
+# displaying data only with Gender = NaN 
+# data[bool_series] 
+
+# print(data.query('Age > 40'))
